@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.bg-red {
+	background-color: red;
+		}
+
+.bg-green {
+	background-color: green;
+		}
+
+.bg-blue {
+	background-color: blue;
+		}
+.p {
+	color: white;
+}
